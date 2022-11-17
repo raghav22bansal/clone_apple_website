@@ -1,0 +1,54 @@
+.design {
+  text-align: center;
+  background-color: white;
+  border-radius: 1em;
+  margin-right: 1.5em;
+  padding: 2em 1em 1em 1em;
+  margin-top: 2em;
+}
+
+.imagealign {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  user-select: none;
+}
+
+.buyButton {
+  background-color: #0071e3;
+  padding: 0.4em 0.9em;
+  border-radius: 1em;
+  color: white;
+  margin: 10px 1em;
+  user-select: none;
+}
+
+.buyButton:hover {
+  background-color: #0071e3;
+}
+.learn {
+  color: #0071e3;
+}
+.learn:hover {
+  background-color: #c8dce5;
+  color: #0042e0;
+}
+
+.pro {
+  color: #242426;
+  font-size: x-large;
+  word-spacing: -3px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+.promax {
+  color: #242426;
+  font-size: 40px;
+  word-spacing: -2px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+.not {
+  margin-top: 10vh;
+}
